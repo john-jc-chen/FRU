@@ -1,0 +1,8 @@
+User Name:ADMIN
+Password:ADMIN
+IP:192.168.100.110
+FRU File:FRU_MBM_XEM_002p_V201_6.bin
+A1:No
+A2:Yes
+B1:No
+B2:No
